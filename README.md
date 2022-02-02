@@ -10,9 +10,9 @@
 - 🌱 I’m currently learning DSA • Solidity • Web3 • ThreeJS 
 - 👯 I’m looking to collaborate on Interesting Open Source Projects. 
 - 💬 Ask me about my days in college :) 
-- 📫 How to reach me: linkedin mail instagram 
 
 
+- 📫 How to reach me:
 [<img src="https://img.icons8.com/color/50/ffffff/linkedin.png" alt='github' height='40'>](https://www.linkedin.com/in/hrs2306/)  [<img src="https://img.icons8.com/color/48/ffffff/instagram-new--v1.png" alt='linkedin' height='40'>](https://www.instagram.com/the_raj_you_know/)  [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt='instagram' height='40'>](mailto:raj23june2001@gmail.com)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PandaPrince19&show_icons=true&theme=cobalt)  
