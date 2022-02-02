@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Raj
 #### ***Panda*** is what they call me
-![I am GitHub Readme Generator's creator](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
+![I am Panda the Hacker](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
 
 Cyber Security-Student , Web Developer and UI/UX Designer.
 
