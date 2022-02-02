@@ -2,9 +2,9 @@
 #### ***Panda*** is what they call me
 ![I am Panda the Hacker](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
 
-**Cyber Security-Student , Web Developer and UI/UX Designer.**
+**Cyber Security-Student , Web Developer and UI/UX Designer.
 
-Skills: PYTHON • JAVA • C/C++ • JAVASCRIPT • NODEJS • REACTJS • NEXTJS • REDUX • HTML5 • CSS • TAILWIND CSS • TYPESCRIPT • MONGODB • FIREBASE
+**Skills:** PYTHON • JAVA • C/C++ • JAVASCRIPT • NODEJS • REACTJS • NEXTJS • REDUX • HTML5 • CSS • TAILWIND CSS • TYPESCRIPT • MONGODB • FIREBASE
 
 - 🔭 I’m currently working on making TypeScript Projects and my Portfolio. 
 - 🌱 I’m currently learning DSA • Solidity • Web3 • ThreeJS 
