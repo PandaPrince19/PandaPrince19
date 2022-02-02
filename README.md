@@ -6,7 +6,7 @@
 
 **Skills:** PYTHON • JAVA • C/C++ • JAVASCRIPT • NODEJS • REACTJS • NEXTJS • REDUX • HTML5 • CSS • TAILWIND CSS • TYPESCRIPT • MONGODB • FIREBASE
 
-- 🔭 I’m currently working on making TypeScript Projects and my Portfolio. 
+- 🔭 I’m currently working on making TypeScript Projects and Building My Portfolio. 
 - 🌱 I’m currently learning DSA • Solidity • Web3 • ThreeJS 
 - 👯 I’m looking to collaborate on Interesting Open Source Projects. 
 - 💬 Ask me about my days in college :) 
